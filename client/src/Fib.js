@@ -11,7 +11,7 @@ export default class Fib extends Component {
 
   componentDidMount() {
     this.fetchValues();
-    this.fetchIndexess();
+    this.fetchIndexes();
   }
 
   async fetchValues() {
